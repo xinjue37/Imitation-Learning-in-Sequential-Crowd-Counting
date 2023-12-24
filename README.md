@@ -2,7 +2,12 @@
 
 * This repository consist of implementation in "Imitation learning is all you need in sequential crowd counting using deep reinforcement learning"
 
-## Instruction to run the code
+## Instruction to run the code (Way1)
+1. Download all the file and code from the [Onedrive](https://1drv.ms/f/s!Ahv-XQKk4-F9pGE97HwvACaHuXQR?e=oSU2Hz) (1.35GB), it contains all the models and results obtained.
+2. Run the train.ipynb to train the model and evaluate.ipynb to evaluate the model
+
+
+## Instruction to run the code (Way2)
 1. Download the [ShangHaiTech](https://www.kaggle.com/datasets/tthien/shanghaitech) dataset (349MB)
 2. Download the [VGG16 backbone pretrained](https://onedrive.live.com/?authkey=%21AM%5Fp2iKUk2B2viA&id=21A90DD283FC5F43%2114642&cid=21A90DD283FC5F43&parId=root&parQt=sharedby&parCid=7DE1E3A4025DFE1B&o=OneUp) on SHT Part_A, which is obtained from the author of [LibraNet](https://github.com/poppinace/libranet)
 3. Follow the directory structure to place each of the files:
